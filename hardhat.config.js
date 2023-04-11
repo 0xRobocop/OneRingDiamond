@@ -17,10 +17,4 @@ module.exports = {
   solidity: {
     version: "0.8.9",
   },
-
-  etherscan: {
-    apiKey: { 
-      optimisticEthereum: "JGU8Z6D131R8DY1IGNJ78AEZJ7C1EAW5K1",
-    }
-  },
 };
